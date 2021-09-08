@@ -15,6 +15,7 @@ I am a Korean High School Student who is interested in creating games!
 * Completed 2017 Hanyang University CTCS course
 ## :canada: 2018~
 * Grade 10 student of Harry Ainlay Composite High School (2020~2021)
+* * Grade 11 student of Dr. Anne Anderson High School (2021~)
 # :busts_in_silhouette: Activities
 ## Korean Youth Developers [APPERZ](https://www.apperz.co.kr/)
 * Project Artz (프로젝트 아츠)
