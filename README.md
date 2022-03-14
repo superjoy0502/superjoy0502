@@ -23,5 +23,7 @@ I am a Korean High School Student who is interested in creating games!
 * Admin
 ## 2021 Korea Youth Online Gamejam
 * Team 3 "[Mailman of Consensus](https://github.com/Ws-Peroth/2021KoreanYouthGameJam_team3)" - Programmer
+## Dr. Anne Anderson High School
+* Lead Programmer of [Esports Discord Bot](https://github.com/daahsedmonton/DAAHSEsportsDiscordBot)
 # :globe_with_meridians: Social
 [![Facebook](https://img.shields.io/badge/-Facebook-2D88FF?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dongwookim05/)](https://www.facebook.com/dongwookim05/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/superjoy0502)](https://twitter.com/superjoy0502) [![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/superjoy0502/)](https://www.instagram.com/superjoy0502/) [![Gmail Badge](https://img.shields.io/badge/-superjoy0502@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:superjoy0502@gmail.com)](mailto:superjoy0502@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-dongwoo.kim@apperz.co.kr-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongwoo.kim@apperz.co.kr)](mailto:dongwoo.kim@apperz.co.kr) [![Gmail Badge](https://img.shields.io/badge/-dongwoo.kim@smcolon.kr-2253f5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongwoo.kim@smcolon.kr)](mailto:dongwoo.kim@smcolon.kr)
