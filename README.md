@@ -1,7 +1,7 @@
 # Hi there 👋
 I am a Korean High School Student who is interested in creating games!
 # :computer: Developing
-[![SuperJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=superjoy0502&theme=dark)](https://github.com/superjoy0502/) [![SuperJoy's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superjoy0502&theme=dark&layout=compact)](https://github.com/superjoy0502/)
+[![SuperJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=superjoy0502&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/) [![SuperJoy's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superjoy0502&theme=dark&layout=compact)](https://github.com/superjoy0502/)
 # :pencil: Learning
 * I learn Unity C# for creating video games in various platforms
 * I learn Python for various new technologies such as machine learning
