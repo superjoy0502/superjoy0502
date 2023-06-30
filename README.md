@@ -3,7 +3,6 @@ I am a Korean international student currently attending University of Toronto, s
 
 I am interested in **Computer Science**, including specific fields such as **Game Development**, **Human-Computer Interaction**, **XR Technology**, and **Artificial Intelligence**. I look forward to study these fields during my years in university.
 
----
 ## 📖 My Education History
 ### 🇰🇷 ~ 2018
 * 🎖️ Certificate of Completion code.org The Hour of Code
@@ -44,17 +43,16 @@ I am interested in **Computer Science**, including specific fields such as **Gam
     * 🎓 Alberta High School Diploma
 * ⏳ **First Year @ [University of Toronto](https://utoronto.ca/)**
     * ⏳ Honours Bachelor of Science (H.B.Sc.)
----
+
 ## ✏️ What I Learn
 * 🔲 Unity C# (★★★★☆) ➡️ Independent Game Development
 * 🐍 Python (★☆☆☆☆) ➡️ Fun to learn
 * ☕️ Java/Kotlin (★★★☆☆) ➡️ Side Projects
 * 🌐 HTML/CSS/JS (★★☆☆☆) ➡️ Fast Proof-of-Concept
----
+
 ## 🖥️ My Stats
 [![SuperJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=superjoy0502&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/) [![SuperJoy's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superjoy0502&theme=dark&layout=compact)](https://github.com/superjoy0502/)
 
----
 ## 🎲 What I Did
 ### 👤 Individual
 * [Infinite Homework](https://play.google.com/store/apps/details?id=com.superjoy.infhomework) (Android)
@@ -66,5 +64,6 @@ I am interested in **Computer Science**, including specific fields such as **Gam
 ### 🏫 Lead Programmer - Dr. Anne Anderson High School
 * 🤖 [Esports Discord Bot](https://github.com/daahsedmonton/DAAHSEsportsDiscordBot)
 * 🎥 [Sports Broadcasting System](https://github.com/daahsedmonton/DAAHS-Sports-Streaming)
+
 ## 🌐 My Social Accounts
 [![Facebook](https://img.shields.io/badge/-Facebook-2D88FF?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dongwookim05/)](https://www.facebook.com/dongwookim05/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/superjoy0502)](https://twitter.com/superjoy0502) [![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/superjoy0502/)](https://www.instagram.com/superjoy0502/) [![Gmail Badge](https://img.shields.io/badge/-superjoy0502@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:superjoy0502@gmail.com)](mailto:superjoy0502@gmail.com)
