@@ -5,25 +5,9 @@ I am interested in **Computer Science**, including specific fields such as **Gam
 
 ## 📖 My Education History
 ### 🇰🇷 ~ 2018
-* 🎖️ Certificate of Completion code.org The Hour of Code
-* 💻 Participated in 2015 Software Neverland Junior Hackathon (코딩클럽주니어해커톤 소프트웨어네버랜드)
 * 🏫 Completed 2017 [Seoul Seongdong-Gwangjin District Office of Education](http://sdgjedu.sen.go.kr) Fusion-Information Gifted Institute (서울성동광진교육지원청 융합정보 영재교육원)
     * 🎖️ Award of Excellence (우수상)
-* 📒 Completed 2017 [Hanyang University CTCS course](https://hysoft.hanyang.ac.kr/main/?skin=value_ctcs.html) (한양대학교 CTCS)
 * 🎓 [Seoul Eungbong Elementary School](https://eb.sen.es.kr) (서울응봉초등학교) Class of 2017
-    * 🎖️ 2012 Invention Competition Encouragement Award (발명품 경진대회 장려상)
-    * 🥉 2012 School Reading Quiz Bronze Award (교내 독서 퀴즈 대회 동상)
-    * 🥈 2013 School Reading Quiz Silver Award (교내 독서 퀴즈 대회 은상)
-    * 🎖️ 2013 Exemplary Child Award (모범어린이상)
-    * 🏅 2014 School Science Research Contest Excellence with Distinction Award (교내 과학탐구대회 과학환경그리기부문 최우수상)
-    * 🏅 2014 School Writing Festival Excellence Award (교내 글쓰기 한마당 생활문쓰기부문 우수상)
-    * 🥉 2014 School English Reading Book Report Presentation Contest Bronze Award (교내 영어 독서 소감문 발표대회 동상)
-    * 🎖️ 2014 Exemplary Child Award (모범어린이 표창장)
-    * 🥉 2015 School English Quiz Contest (교내 영어 퀴즈 대회 동상)
-    * 🥈 2015 School Math Olympiad (교내 수학올림피아드 은상)
-    * 🏅 2016 School Writing Festival Excellence Award (교내 글쓰기한마당 주장하는글쓰기부문 우수상)
-    * 🥉 2016 School Math Olympiad (교내 수학올림피아드 동상)
-* 🎖️ 2018 Completed [KoEF](http://www.koef.or.kr) Maker Education Program, Wearable Technology Course (한국청년기업가정신재단 메이커 교육 프로그램, 웨어러블 테크놀로지 교육 수료)
 * ➡️ Transferred from [Gwanghee Middle School](https://kwanghee.sen.ms.kr) (광희중학교) to Johnny Bright School in 2018
 ### 🇨🇦 2018~
 * 🎓 [Johnny Bright School](https://johnnybright.epsb.ca) Class of 2020
@@ -41,7 +25,7 @@ I am interested in **Computer Science**, including specific fields such as **Gam
     * 🎖️ Honours with Distinction Award
     * 🏆 Envisioning the Future Award
     * 🎓 Alberta High School Diploma
-* ⏳ **First Year @ [University of Toronto](https://utoronto.ca/)**
+* ⏳ **Second Year @ [University of Toronto](https://utoronto.ca/)**
     * ⏳ Honours Bachelor of Science (H.B.Sc.)
 
 ## ✏️ What I Learn
