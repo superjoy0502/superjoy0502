@@ -1,5 +1,5 @@
 # Hi there 👋 I am Dongwoo **"Joy" Kim** 🇰🇷🇨🇦
-I am a Korean international student currently attending University of Toronto, studying in the Fauclty of Arts and Science as a first year student.
+I am a Korean international student currently attending University of Toronto, studying in the Fauclty of Arts and Science as a second year student.
 
 I am interested in **Computer Science**, including specific fields such as **Game Development**, **Human-Computer Interaction**, **XR Technology**, and **Artificial Intelligence**. I look forward to study these fields during my years in university.
 
@@ -17,7 +17,6 @@ I am interested in **Computer Science**, including specific fields such as **Gam
 * 🏅 2021 [Cayley Contest](https://www.cemc.uwaterloo.ca/contests/pcf.html) Certificate of Distinction
 * 🎓 [Dr. Anne Anderson High School](https://anneanderson.epsb.ca) Class of 2023
     * 🎥 Director of DAAHS Broadcasting
-    * 🥇 2021 Best Illustration of a Computing Technology (Cybersecurity)
     * 💻 Participated in the 2022 [University of Alberta Programming Contest](https://uapspc.github.io/uapc/index.html)
     * 📝 Participated in the 2022 [Iverson Computing Science Exam](https://www.ualberta.ca/computing-science/explore/iverson-exam/index.html)
     * 🥇🏅 2022 [Hypatia Contest](https://www.cemc.uwaterloo.ca/contests/fgh.html) [School Champion](https://www.instagram.com/p/Ce4Itwcvxxd/?igshid=MzRlODBiNWFlZA==), Certificate of Distinction
@@ -30,7 +29,7 @@ I am interested in **Computer Science**, including specific fields such as **Gam
 
 ## ✏️ What I Learn
 * 🔲 Unity C# (★★★★☆) ➡️ Independent Game Development
-* 🐍 Python (★☆☆☆☆) ➡️ Fun to learn
+* 🐍 Python (★★★☆☆) ➡️ School
 * ☕️ Java/Kotlin (★★★☆☆) ➡️ Side Projects
 * 🌐 HTML/CSS/JS (★★☆☆☆) ➡️ Fast Proof-of-Concept
 
